@@ -80,7 +80,7 @@ async def start(client, message):
         InlineKeyboardButton('☢️Source', url='https://github.com/Termin-a-t-o-r/Group-Music-Bot'),
     ],
     [
-        InlineKeyboardButton('👨🏼‍🦯 Help', callback_data='help'),
+        InlineKeyboardButton('👑Developer',url='https://t.me/Termin_a_t_o_r'),
         
     ]
     ]
